@@ -6,7 +6,10 @@ let lines = [
         "Nubah is busy!",
         "Jim is watching naruto!",
         "Arnob is singing!",
-        "Samir is flying!"
+        "Samir is flying",
+        "Moon is Glowing"
 ]
 const text = document.getElementById("lines");
-      document.getElementById("lines").innerHTML = `${lines[Math.floor(Math.random() * lines.length)]}`;
+      setInterval(async() => {
+        document.getElementById("lines").innerHTML = `${lines[Math.floor(Math.random() * lines.length)]}`
+      }, 3000)
