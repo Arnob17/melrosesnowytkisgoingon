@@ -1,3 +1,4 @@
+/*If you seeing this file then write your sentence in the lines[] array!*/
 let lines = [
         "Waves of Water!",
         "Snixon is Vibing!",
