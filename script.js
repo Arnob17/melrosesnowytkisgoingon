@@ -9,7 +9,7 @@ let lines = [
         "Arnob is singing!",
         "Samir is flying",
         "Moon is Glowing",
-        "Agent71 is f**ing",
+        "Agent71 is funning",
         "snixon is epic",
         "nubah is eating cupcake",
         "jim is eating breakfast"
