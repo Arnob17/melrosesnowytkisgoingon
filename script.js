@@ -8,7 +8,10 @@ let lines = [
         "Jim is watching naruto!",
         "Arnob is singing!",
         "Samir is flying",
-        "Moon is Glowing"
+        "Moon is Glowing",
+        "Nubah is eating cupcake",
+        "jim is eating breakfast"
+
 ]
 const text = document.getElementById("lines");
       setInterval(async() => {
