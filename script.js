@@ -9,7 +9,10 @@ let lines = [
         "Arnob is singing!",
         "Samir is flying",
         "Moon is Glowing",
-        "Agent71 is f**ing"
+        "Agent71 is f**ing",
+        "snixon is epic",
+        "nubah is eating cupcake",
+        "jim is eating breakfast"
 ]
 const text = document.getElementById("lines");
       setInterval(async() => {
