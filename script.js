@@ -12,7 +12,8 @@ let lines = [
         "Agent is being  E S P R E S S O",
         "snixon is epic",
         "nubah is eating cupcake",
-        "jim is eating breakfast"
+        "jim is eating breakfast",
+        "Epic-GG army is going on"
 ]
 const text = document.getElementById("lines");
       setInterval(async() => {
