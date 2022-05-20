@@ -19,3 +19,6 @@ const text = document.getElementById("lines");
       setInterval(async() => {
         document.getElementById("lines").innerHTML = `${lines[Math.floor(Math.random() * lines.length)]}`
       }, 3000)
+
+let x;
+let y;
