@@ -7,7 +7,6 @@ let lines = [
         "Nubah is busy!",
         "Jim is watching naruto!",
         "Arnob is singing!",
-        "Samir is flying",
         "Moon is Glowing",
         "Agent is being  E S P R E S S O",
         "snixon is epic",
@@ -21,4 +20,5 @@ const text = document.getElementById("lines");
       }, 3000)
 
 let x;
+
 let y;
